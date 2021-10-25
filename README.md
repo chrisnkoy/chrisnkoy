@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chrisnkoy
-- 👀 I’m interested in Web Development and Data Analytics
-- 🌱 I’m currently learning Python and Java
+- 👀 I’m interested in Data Analytics and Web Dev
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on TBD
 - 📫 nkoycm@gmail.com
 
