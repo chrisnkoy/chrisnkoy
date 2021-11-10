@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chrisnkoy
-- 👀 I’m interested in Backend Dev and Data Analytics
+- 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on TBD
 - 📫 nkoycm@gmail.com
