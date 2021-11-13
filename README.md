@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chris
 - 👀 I’m interested in Software Dev & Data Analytics
-- 🌱 I’m currently learning Python, JavaScript and Data Anlytics
+- 🌱 I’m currently learning Python, JavaScript and Data Anlytics (working on a Google Data Analytics Certification)
 - 💞️ I’m looking to collaborate on TBD
 - 📫 nkoycm@gmail.com
 
